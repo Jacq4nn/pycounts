@@ -29,8 +29,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts` was created by Jacqueline Chong. It is licensed under the terms of the MIT license.
+`pycounts_jacqann` was created by Jacqueline Chong. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_jacqann` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
