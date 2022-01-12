@@ -1,16 +1,16 @@
-# pycounts
+# pycounts_jacqann
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycounts_jacqann
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot the results as follows:
+`pycounts_jacqann` can be used to count words in a text file and plot the results as follows:
 
 ```bash
 from pycounts_jacqann.pycounts import count_words
